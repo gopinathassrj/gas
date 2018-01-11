@@ -7,8 +7,6 @@
 #
 # The subsequent lines should be a longer description of the feature,
 # including a summary of backwards-compatibility breaks, wrapped at
-# 80 characters.
+# 80 characters.i
 
-apppend 1
-append 2
-append 3
+submit command
