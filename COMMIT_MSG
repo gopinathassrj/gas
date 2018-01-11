@@ -1,4 +1,4 @@
-my commit hf
+
 # Please enter the description for your pull request. Lines starting
 # with '#' will be ignored, and an empty message aborts the request.
 #
@@ -8,3 +8,7 @@ my commit hf
 # The subsequent lines should be a longer description of the feature,
 # including a summary of backwards-compatibility breaks, wrapped at
 # 80 characters.
+
+apppend 1
+append 2
+append 3
